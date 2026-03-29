@@ -83,6 +83,7 @@
     'exp.8.b2': 'Tech stack: Java / Wagby / AWS',
     // Contact
     'contact.message': 'Feel free to get in touch.',
+    'contact.linkedin': 'View Profile',
   };
 
   // 日本語テキストの保存（言語トグル用）
